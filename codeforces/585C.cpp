@@ -1,3 +1,4 @@
+/*
 #include <cstdio>
 #include <cstdlib>
 #include <cstring>
@@ -43,4 +44,4 @@ int main()
 	else cout<<"Impossible"<<endl;
 
 	return 0;
-} 
+} */

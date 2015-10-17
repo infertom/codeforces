@@ -18,5 +18,11 @@
     <ClCompile Include="585C.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="589A.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="in.txt" />
   </ItemGroup>
 </Project>
