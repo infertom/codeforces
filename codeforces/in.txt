@@ -1,7 +1,3 @@
-6
-ICPC.@bmail.com
-p+con+test@BMAIL.COM
-P@bmail.com
-a@bmail.com.ru
-I.cpc@Bmail.Com
-a+b@bmail.com.ru
+2
+100001 900000
+900001 100000

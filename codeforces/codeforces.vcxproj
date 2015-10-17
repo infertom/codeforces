@@ -76,6 +76,7 @@
   <ItemGroup>
     <ClCompile Include="585C.cpp" />
     <ClCompile Include="589A.cpp" />
+    <ClCompile Include="589B.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="in.txt" />
